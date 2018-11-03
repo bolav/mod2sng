@@ -1,0 +1,9 @@
+{
+  "name": "mod2sng",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "protracker": "^0.0.2"
+  }
+}
